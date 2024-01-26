@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Agrarius digeratus literatus: *I farm. I tech. I write.*
+#### Agrarius digeratus literatus: *I farm. I tech. I write.*
 
 I'm retired from the tech industry and now run a small farm in the US Piedmont while sometimes helping folks buy and sell real estate. My primary passion, though, is writing. Tech and writing converge a bit with these repositories:
 
