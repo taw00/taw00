@@ -1,6 +1,7 @@
-### Hi there 👋
 
 <!--
+### Hi there 👋
+
 **taw00/taw00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +15,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Agrarius digeratus literatus: *I farm. I tech. I write.*
+
+I'm retired from the tech industry and now run a small farm in the US Piedmont while sometimes helping folks buy and sell real estate. My primary passion, though, is writing. Tech and writing converge a bit with these repositories:
+
+- [Manuscript Formatting (CSS) of Markdown for Writers](https://github.com/taw00/manuscript-css) - Prefer to write in a markdown editor? Here're some tools to present your work in (nearly) industry standard manuscript format without leaving your favorite editor.
+- [Writing Resources](https://github.com/taw00/writing-resources) - My dumping ground for open-source writing resources.
+
+You can discover more about me via [[my keybase profile](https://keybase.io/toddwarner)] and then hit me up with some [[coffee](https://buymeacoff.ee/toddwarner)].
+
