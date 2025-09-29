@@ -23,7 +23,7 @@ I'm retired from the tech industry and now run a small farm in the US Piedmont w
 > [[manuscript-css]](https://github.com/taw00/manuscript-css)  
 > **Write your manuscript without ever leaving your favorite text editor — *for Creative Writers***
 > 
-> Are you a fan of a simple, distraction-free text editor to do all of your creative writing? Do you share your work with others? Do you submit your work to literary journals and traditional publishers? Well, now you can now produce an [industry standard manuscript](https://format.ms/story) for review or submission without ever leaving your favorite editor.
+> Are you a fan of a simple, distraction-free text editor to do all of your creative writing? Do you share your work with others? Do you submit your work to literary journals and traditional publishers? Well, now you can produce an [industry standard manuscript](https://format.ms/story) for review or submission without ever leaving your favorite editor.
 
 <!--
 - [[Writing Resources (very dated)]](https://github.com/taw00/writing-resources)  
