@@ -21,8 +21,9 @@ Here are some ideas to get you started:
 I'm retired from the tech industry and now run a small farm in the US Piedmont while sometimes helping folks buy and sell real estate. My primary passion, though, is writing. Tech and writing converge a bit with these small projects I maintain. Here's the most interesting of them:
 
 > [[manuscript-css]](https://github.com/taw00/manuscript-css)  
-> **Write your manuscript and never leave your text editor — *for Creative Writers***  
-> Prefer to do all of your writing in a text or markdown editor? You can now produce an [industry standard manuscript format](https://format.ms/story) without leaving your favorite editor.
+> **Write your manuscript without ever leaving your favorite text editor — *for Creative Writers***
+> 
+> Are you a fan of a simple, distraction-free text editor to do all of your creative writing? Do you share your work with others? Do you submit your work to literary journals and traditional publishers? Well, now you can now produce an [industry standard manuscript](https://format.ms/story) for review or submission without ever leaving your favorite editor.
 
 <!--
 - [[Writing Resources (very dated)]](https://github.com/taw00/writing-resources)  
