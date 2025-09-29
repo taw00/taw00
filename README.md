@@ -30,7 +30,6 @@ I'm retired from the tech industry and now run a small farm in the US Piedmont w
   My dumping ground for open-source writing resources.
 -->
 
-You can discover more about me via [[my keybase profile](https://keybase.io/toddwarner)] and then hit me up with some [[coffee](https://buymeacoff.ee/toddwarner)].
-
 <a href="https://github.com/taw00/manuscript-css/blob/baf114a14379ca236fd15195c593f9ea6b1185ae/misc/README-long-story-lovecraft.jpg"><img src="https://github.com/taw00/manuscript-css/blob/baf114a14379ca236fd15195c593f9ea6b1185ae/misc/README-long-story-lovecraft.jpg" alt="long long: At the Mountains of Madness (Lovecraft)" /></a>
 
+You can discover more about me via [[my keybase profile](https://keybase.io/toddwarner)] and then hit me up with some [[coffee](https://buymeacoff.ee/toddwarner)].
